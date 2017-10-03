@@ -22,19 +22,19 @@ alertall 無＋フレア before 5 speak "TTSYukkuri" "ヒラは3時"
 # デルタアタック
 alertall デルタアタック before 5 speak "TTSYukkuri" "散開後、MTにベネ"
 # GCオメガ
-alertall グランドクロス・オメガ before 8 "TTSYukkuri" "ケアルガ2回打って"
+alertall グランドクロス・オメガ before 8 speak "TTSYukkuri" "ケアルガ2回打って"
 # 法則崩壊
-alertall 法則崩壊 before 5 "TTSYukkuri" "火力足りてませんね"
+alertall 法則崩壊 before 5 speak "TTSYukkuri" "火力足りてませんね"
 
 # TTS設定：自スキル
 alertall ●メディカラ before 4 speak "TTSYukkuri" "メディカラ"
 alertall ●アサイズ before 2 speak "TTSYukkuri" "アサイズ"
-alertall ●ケアルガ→アサイズ before 3 "TTSYukkuri" "ケアルガ後にアサイズ"
-alertall ●ケアルガ before 3 "TTSYukkuri" "ケアルガ"
-alertall ●メディカ→アサイズ before 3 "TTSYukkuri" "メディカ後にアサイズ"
+alertall ●ケアルガ→アサイズ before 3 speak "TTSYukkuri" "ケアルガ後にアサイズ"
+alertall ●ケアルガ before 3 speak "TTSYukkuri" "ケアルガ"
+alertall ●メディカ→アサイズ before 3 speak "TTSYukkuri" "メディカ後にアサイズ"
 
 # TTS設定：薬
-alertall ★薬返ってきてる★ before 5 "TTSYukkuri" "薬まみれになろうや"
+alertall ★薬返ってきてる★ before 5 speak "TTSYukkuri" "薬まみれになろうや"
 
 # 待機
 0 "--待機(10秒前メディカラ)--" sync /Added new combatant ネオエクスデス. Max HP: 17702272./ window 10,10000 jump 0
