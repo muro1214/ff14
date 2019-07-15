@@ -32,3 +32,7 @@ CP：540
 /ac 精密作業 <wait.3>  
 /ac 精密作業  
 /echo 完成！ <se.8>   
+
+### クラフターシミュ
+
+http://bit.ly/2XGPFzL
