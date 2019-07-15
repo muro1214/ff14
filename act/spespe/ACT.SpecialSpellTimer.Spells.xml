@@ -1,0 +1,4525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>1</ID>
+    <Guid>50675425-c670-4d7d-9935-87fc59b2c5e8</Guid>
+    <PanelID>d6981c96-74a4-40e0-86b4-7f7bd47507c3</PanelID>
+    <Panel>リジェネ</Panel>
+    <SpellTitle>2</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;2&gt; gains the effect of リジェネ from &lt;me&gt;</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>18</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="FOT-TsukuBRdGothic Std" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>White</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>50</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>21_WhiteMage\0137_リジェネ.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>5</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>2</ID>
+    <Guid>e5a200e5-a3a9-488c-9aa4-924b27e4990a</Guid>
+    <PanelID>d6981c96-74a4-40e0-86b4-7f7bd47507c3</PanelID>
+    <Panel>リジェネ</Panel>
+    <SpellTitle>3</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;3&gt; gains the effect of リジェネ from &lt;me&gt;</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>18</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="FOT-TsukuBRdGothic Std" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>White</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>51</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>21_WhiteMage\0137_リジェネ.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>5</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>3</ID>
+    <Guid>3307c53b-9a4f-4ebd-8cc9-3b1fea2884dc</Guid>
+    <PanelID>ed342ed0-9cf9-4d39-bec1-38cb3e9e71f2</PanelID>
+    <Panel>白ちゃん</Panel>
+    <SpellTitle>ディア</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>gains the effect of ディア from &lt;me&gt;</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>30</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="FOT-TsukuBRdGothic Std" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>White</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>53</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>16532_ディア.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>5</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>4</ID>
+    <Guid>8b91133f-8c0d-433e-bfdd-2024f651fcf8</Guid>
+    <PanelID>ed342ed0-9cf9-4d39-bec1-38cb3e9e71f2</PanelID>
+    <Panel>白ちゃん</Panel>
+    <SpellTitle>ウォーキングデッド監視</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;DRK&gt; gains the effect of ウォーキングデッド</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>10</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="FOT-TsukuBRdGothic Std" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>White</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>54</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>13_DarkKnight\3638_リビングデッド.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>5</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound>ウォーキングデッド.wav</MatchSound>
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>5</ID>
+    <Guid>458381ab-a874-4a0f-8ef1-5ad762ecdefb</Guid>
+    <PanelID>c3df3ce5-b9e8-4e51-a66d-a434c9c54cfa</PanelID>
+    <Panel>アスペクト・ベネフィク</Panel>
+    <SpellTitle>2</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;2&gt; gains the effect of アスペクト・ベネフィク from &lt;me&gt;</Keyword>
+    <RecastTime>15</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="Nyashi" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#F0F8FF</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>55</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>17151_アスペクト・ベネフィク.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>5</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>33</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>6</ID>
+    <Guid>2313fabf-4c84-4702-ab87-e3a2b8f32157</Guid>
+    <PanelID>c3df3ce5-b9e8-4e51-a66d-a434c9c54cfa</PanelID>
+    <Panel>アスペクト・ベネフィク</Panel>
+    <SpellTitle>3</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;3&gt; gains the effect of アスペクト・ベネフィク from &lt;me&gt;</Keyword>
+    <RecastTime>15</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="Nyashi" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#F0F8FF</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>55</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>17151_アスペクト・ベネフィク.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>5</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>33</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>7</ID>
+    <Guid>645d8891-fff8-489c-a745-f42d18fd5304</Guid>
+    <PanelID>7f2c1bcd-dd44-41e6-8604-49e233658ff6</PanelID>
+    <Panel>占いちゃん</Panel>
+    <SpellTitle>コンバラ</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>gains the effect of コンバラ from &lt;me&gt;</Keyword>
+    <RecastTime>30</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="Nyashi" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#F0F8FF</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>58</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>3608_コンバラ.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>5</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>33</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>8</ID>
+    <Guid>8840b9ad-ae18-4ebf-a595-39af403833d1</Guid>
+    <PanelID>2b28290b-5c2d-4949-b734-c9d9e3873f03</PanelID>
+    <Panel>占いちゃん2</Panel>
+    <SpellTitle>アーサリースター</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>Added new combatant アーサリースター.  Job: 0 Level:</Keyword>
+    <RecastTime>20</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="Nyashi" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#F0F8FF</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>59</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>7439_アーサリースター.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>33</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>9</ID>
+    <Guid>cda63349-776c-416b-8f3f-61c445eb0eee</Guid>
+    <PanelID>e0a9df9b-b133-4d07-b090-3c569f3e562b</PanelID>
+    <Panel>絶アルテマータイタン</Panel>
+    <SpellTitle>1</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>:2B6[BC]:グラナイト・ジェイル:\w{8}:Waita Isp:</Keyword>
+    <RecastTime>5</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="11" FontFamily="Arial" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1</DisplayNo>
+    <DontHide>false</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon>1.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>true</IsSequentialTTS>
+    <MatchTextToSpeak>ナイト</MatchTextToSpeak>
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>false</ToMainDevice>
+      <ToSubDevice>true</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>10</ID>
+    <Guid>a02e803f-3641-4b9c-a185-f500e28bcd3e</Guid>
+    <PanelID>e0a9df9b-b133-4d07-b090-3c569f3e562b</PanelID>
+    <Panel>絶アルテマータイタン</Panel>
+    <SpellTitle>2</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>:2B6[BC]:グラナイト・ジェイル:\w{8}:Comeccho Nau:</Keyword>
+    <RecastTime>5</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="11" FontFamily="Arial" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>11</DisplayNo>
+    <DontHide>false</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon>6.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>true</IsSequentialTTS>
+    <MatchTextToSpeak>忍者</MatchTextToSpeak>
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>false</ToMainDevice>
+      <ToSubDevice>true</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>11</ID>
+    <Guid>4594ee47-8b8b-4e42-ac97-07815ee92455</Guid>
+    <PanelID>e0a9df9b-b133-4d07-b090-3c569f3e562b</PanelID>
+    <Panel>絶アルテマータイタン</Panel>
+    <SpellTitle>3</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>:2B6[BC]:グラナイト・ジェイル:\w{8}:Cure Dark:</Keyword>
+    <RecastTime>5</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="11" FontFamily="Arial" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>21</DisplayNo>
+    <DontHide>false</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon>5.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>true</IsSequentialTTS>
+    <MatchTextToSpeak>竜</MatchTextToSpeak>
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>false</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>12</ID>
+    <Guid>40efe392-fa70-4e57-9059-d7f726244161</Guid>
+    <PanelID>e0a9df9b-b133-4d07-b090-3c569f3e562b</PanelID>
+    <Panel>絶アルテマータイタン</Panel>
+    <SpellTitle>4</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>:2B6[BC]:グラナイト・ジェイル:\w{8}:Ishiue Little:</Keyword>
+    <RecastTime>5</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="11" FontFamily="Arial" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>31</DisplayNo>
+    <DontHide>false</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon>8.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>true</IsSequentialTTS>
+    <MatchTextToSpeak>召喚</MatchTextToSpeak>
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>false</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>13</ID>
+    <Guid>ee7001b5-1828-416d-bd01-ff86db0cb6d5</Guid>
+    <PanelID>e0a9df9b-b133-4d07-b090-3c569f3e562b</PanelID>
+    <Panel>絶アルテマータイタン</Panel>
+    <SpellTitle>5</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>:2B6[BC]:グラナイト・ジェイル:\w{8}:Izuna Hatsuse:</Keyword>
+    <RecastTime>5</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="11" FontFamily="Arial" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>41</DisplayNo>
+    <DontHide>false</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon>3.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>true</IsSequentialTTS>
+    <MatchTextToSpeak>白</MatchTextToSpeak>
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>false</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>14</ID>
+    <Guid>209225be-6c3c-454e-ab43-a201fa5405e7</Guid>
+    <PanelID>e0a9df9b-b133-4d07-b090-3c569f3e562b</PanelID>
+    <Panel>絶アルテマータイタン</Panel>
+    <SpellTitle>6</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>:2B6[BC]:グラナイト・ジェイル:\w{8}:Kirine Kamigishi:</Keyword>
+    <RecastTime>5</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="11" FontFamily="Arial" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>51</DisplayNo>
+    <DontHide>false</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon>4.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>true</IsSequentialTTS>
+    <MatchTextToSpeak>学</MatchTextToSpeak>
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>false</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>15</ID>
+    <Guid>93a2a5fd-18f2-44da-9f90-e155478358f9</Guid>
+    <PanelID>e0a9df9b-b133-4d07-b090-3c569f3e562b</PanelID>
+    <Panel>絶アルテマータイタン</Panel>
+    <SpellTitle>7</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>:2B6[BC]:グラナイト・ジェイル:\w{8}:Heimlich Hirasawa:</Keyword>
+    <RecastTime>5</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="11" FontFamily="Arial" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>61</DisplayNo>
+    <DontHide>false</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon>7.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>true</IsSequentialTTS>
+    <MatchTextToSpeak>詩人</MatchTextToSpeak>
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>false</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>16</ID>
+    <Guid>f263bc50-7a17-47a3-8e8d-68bf25cdef9c</Guid>
+    <PanelID>a9109eb7-3db4-45a7-86a6-16ce5b479978</PanelID>
+    <Panel>学ちゃん</Panel>
+    <SpellTitle>バイオラ</SpellTitle>
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>gains the effect of バイオラ from &lt;me&gt;</Keyword>
+    <RecastTime>30</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="Nyashi" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>62</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>0178_バイオラ.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>5</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>28</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>17</ID>
+    <Guid>d05b13f4-5540-4487-a80b-202432224cf2</Guid>
+    <PanelID>a9109eb7-3db4-45a7-86a6-16ce5b479978</PanelID>
+    <Panel>学ちゃん</Panel>
+    <SpellTitle>ミアズマ</SpellTitle>
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>gains the effect of ミアズマ from &lt;me&gt;</Keyword>
+    <RecastTime>24</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="Nyashi" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>63</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>0168_ミアズマ.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>5</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>28</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>18</ID>
+    <Guid>29a446a9-593c-4793-9279-a3ee14fcf10a</Guid>
+    <PanelID>a9109eb7-3db4-45a7-86a6-16ce5b479978</PanelID>
+    <Panel>学ちゃん</Panel>
+    <SpellTitle>ミアズラ</SpellTitle>
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>gains the effect of ミアズラ from &lt;me&gt;</Keyword>
+    <RecastTime>12</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="Nyashi" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>64</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>0177_ミアズラ.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>5</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>28</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>19</ID>
+    <Guid>4ffa23bb-eee1-468e-9db4-8b72cbd98aee</Guid>
+    <PanelID>96f53f9a-bda6-421b-abd3-349b5b25ff7a</PanelID>
+    <Panel>詩人</Panel>
+    <SpellTitle>ストームバイト</SpellTitle>
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>gains the effect of ストームバイト from Izuna Hatsuse for 30.00 Seconds</Keyword>
+    <RecastTime>30</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>65</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>7407_ストームバイト.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>6</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>23</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>6</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound>oroka.wav</BeforeSound>
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>0</Left>
+    <Top>0</Top>
+    <ID>20</ID>
+    <Guid>35285e82-49c9-424c-b5ce-0de3e21d4b64</Guid>
+    <PanelID>96f53f9a-bda6-421b-abd3-349b5b25ff7a</PanelID>
+    <Panel>詩人</Panel>
+    <SpellTitle>コースティックバイト</SpellTitle>
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>gains the effect of コースティックバイト from Izuna Hatsuse for 30.00 Seconds</Keyword>
+    <RecastTime>30</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="20" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#191970</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFFFF</WarningFontColor>
+    <WarningFontOutlineColor>#FF4500</WarningFontOutlineColor>
+    <BarWidth>1</BarWidth>
+    <BarHeight>1</BarHeight>
+    <BarColor>#FFFFFF</BarColor>
+    <BarOutlineColor>#191970</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>66</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>7406_コースティックバイト.png</SpellIcon>
+    <SpellIconSize>40</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>6</BlinkTime>
+    <BlinkIcon>true</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter>23</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>510</Left>
+    <Top>65</Top>
+    <ID>21</ID>
+    <Guid>5f7c8f0a-ba10-45a1-b3d5-cabdd469c86a</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>エンボルデン</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;RDM&gt;の「エンボルデン」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>20</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>false</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="16" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Bold" />
+    <FontColor>#E8F3F5</FontColor>
+    <FontOutlineColor>#3882A5</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>Transparent</WarningFontColor>
+    <WarningFontOutlineColor>Transparent</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>10</BarHeight>
+    <BarColor>#FF1414</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1061</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>false</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound>エンボルデン.wav</MatchSound>
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>470</Left>
+    <Top>69</Top>
+    <ID>22</ID>
+    <Guid>8e6e0dfe-1bf2-4323-97d6-6f70a1c499b5</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>エンボルデン_icon</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;RDM&gt;の「エンボルデン」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>20</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="24" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>190</BarWidth>
+    <BarHeight>0</BarHeight>
+    <BarColor>White</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1062</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>53_RedMage\7520_エンボルデン.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>510</Left>
+    <Top>96</Top>
+    <ID>23</ID>
+    <Guid>dc5ceeef-dcd6-4b65-946d-ea382f78a62d</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>エンボルデン_recast</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;RDM&gt;の「エンボルデン」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>120</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>5</BarHeight>
+    <BarColor>#14FF14</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1063</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>false</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>50</Left>
+    <Top>10</Top>
+    <ID>24</ID>
+    <Guid>b718b63a-e024-405a-8f2b-e61b321e112a</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>バトルリタニー</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;DRG&gt;の「バトルリタニー」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>20</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>false</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="16" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Bold" />
+    <FontColor>#E8F3F5</FontColor>
+    <FontOutlineColor>#3882A5</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>Transparent</WarningFontColor>
+    <WarningFontOutlineColor>Transparent</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>10</BarHeight>
+    <BarColor>#FF1414</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1001</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>false</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound>バトルリタニー.wav</MatchSound>
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>10</Left>
+    <Top>14</Top>
+    <ID>25</ID>
+    <Guid>e658737e-e751-4b83-a22d-c9af777942ec</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>バトルリタニー_icon</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;DRG&gt;の「バトルリタニー」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>20</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>190</BarWidth>
+    <BarHeight>0</BarHeight>
+    <BarColor>White</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1002</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>32_Dragoon\3557_バトルリタニー.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>50</Left>
+    <Top>41</Top>
+    <ID>26</ID>
+    <Guid>0923a011-d3eb-42bb-bc90-4a7e12a384d0</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>バトルリタニー_recast</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;DRG&gt;の「バトルリタニー」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>180</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>5</BarHeight>
+    <BarColor>#14FF14</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1003</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>false</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>50</Left>
+    <Top>65</Top>
+    <ID>27</ID>
+    <Guid>1e91f364-513c-4bc0-b10c-ee82f1f77c9a</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>だまし討ち</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>8D2:だまし討ち:[0-9A-Z]{8}:.*:2</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>10</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>false</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="16" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Bold" />
+    <FontColor>#E8F3F5</FontColor>
+    <FontOutlineColor>#3882A5</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>Transparent</WarningFontColor>
+    <WarningFontOutlineColor>Transparent</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>10</BarHeight>
+    <BarColor>#FF1414</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1011</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>false</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound>ku.wav</MatchSound>
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>10</Left>
+    <Top>69</Top>
+    <ID>28</ID>
+    <Guid>ed1c1100-9c4e-422d-a3cb-26011ae94f2f</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>だまし討ち_icon</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>8D2:だまし討ち:[0-9A-Z]{8}:.*:2</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>20</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>190</BarWidth>
+    <BarHeight>0</BarHeight>
+    <BarColor>White</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1012</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>33_Ninja\2258_だまし討ち.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>50</Left>
+    <Top>96</Top>
+    <ID>29</ID>
+    <Guid>2bc56f24-9f7e-4a99-a6a6-2e95ac871b3c</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>だまし討ち_recast</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>8D2:だまし討ち:[0-9A-Z]{8}:.*:2</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>60</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>5</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFF14</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>5</BarHeight>
+    <BarColor>#14FF14</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1013</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>false</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>280</Left>
+    <Top>10</Top>
+    <ID>30</ID>
+    <Guid>0786c461-8a15-4dbd-9d57-7f1bbb5771fd</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>バトルボイス</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;BRD&gt;の「バトルボイス」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>20</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>false</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="16" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Bold" />
+    <FontColor>#E8F3F5</FontColor>
+    <FontOutlineColor>#3882A5</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>Transparent</WarningFontColor>
+    <WarningFontOutlineColor>Transparent</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>10</BarHeight>
+    <BarColor>#FF1414</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1031</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>false</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound>バトルボイス.wav</MatchSound>
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>240</Left>
+    <Top>14</Top>
+    <ID>31</ID>
+    <Guid>e1464335-179e-4792-b0ac-4c3f26aa837a</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>バトルボイス_icon</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;BRD&gt;の「バトルボイス」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>20</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>190</BarWidth>
+    <BarHeight>0</BarHeight>
+    <BarColor>White</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1032</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>41_Bard\0118_バトルボイス.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>280</Left>
+    <Top>41</Top>
+    <ID>32</ID>
+    <Guid>c3a1346a-b4ce-46cb-b57b-e5ab4eac64df</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>バトルボイス_recast</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;BRD&gt;の「バトルボイス」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>180</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>7</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>#FFFF14</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>5</BarHeight>
+    <BarColor>#14FF14</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1033</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>false</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>740</Left>
+    <Top>10</Top>
+    <ID>33</ID>
+    <Guid>94d025ef-de8c-428a-b974-c4ced5d4b9d7</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>連環計</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;SCH&gt;の「連環計」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>15</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>false</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="16" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Bold" />
+    <FontColor>#E8F3F5</FontColor>
+    <FontOutlineColor>#3882A5</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>Transparent</WarningFontColor>
+    <WarningFontOutlineColor>Transparent</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>10</BarHeight>
+    <BarColor>#FF1414</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1071</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>false</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound>れんかんけい.wav</MatchSound>
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>700</Left>
+    <Top>14</Top>
+    <ID>34</ID>
+    <Guid>a44e8251-2408-476c-9466-972b1a6850aa</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>連環計_icon</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;SCH&gt;の「連環計」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>15</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>0</BarHeight>
+    <BarColor>#DAA520</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1072</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>7436_連環計.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>740</Left>
+    <Top>41</Top>
+    <ID>35</ID>
+    <Guid>918f43ee-604a-4e55-8c32-361dc2051ce6</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>連環計_recast</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;SCH&gt;の「連環計」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>120</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>5</BarHeight>
+    <BarColor>#14FF14</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1073</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>false</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>50</Left>
+    <Top>120</Top>
+    <ID>36</ID>
+    <Guid>3288fc96-e6be-4d11-8966-a9014c7eeb6f</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>桃園結義</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;MNK&gt;の「桃園結義」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>15</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>false</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="16" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Bold" />
+    <FontColor>#E8F3F5</FontColor>
+    <FontOutlineColor>#3882A5</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>Transparent</WarningFontColor>
+    <WarningFontOutlineColor>Transparent</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>10</BarHeight>
+    <BarColor>#FF1414</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1021</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>false</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound>とうえんけつぎ.wav</MatchSound>
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>10</Left>
+    <Top>124</Top>
+    <ID>37</ID>
+    <Guid>e07f6f7d-43ce-4ca7-92eb-12ae2d4c71dc</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>桃園結義_icon</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;MNK&gt;の「桃園結義」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>15</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="24" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>190</BarWidth>
+    <BarHeight>0</BarHeight>
+    <BarColor>White</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1022</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>7396_桃園結義.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>50</Left>
+    <Top>150</Top>
+    <ID>38</ID>
+    <Guid>55973397-a2e1-4c6b-a2a9-7c31c0682435</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>桃園結義_recast</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;MNK&gt;の「桃園結義」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>90</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>5</BarHeight>
+    <BarColor>#14FF14</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1023</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>false</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>280</Left>
+    <Top>65</Top>
+    <ID>39</ID>
+    <Guid>0edd3cfe-fdfc-4564-9768-34d7228f1b28</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>テクニカルフィニッシュ</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;DNC&gt;の「テクニカルフィニッシュ」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>20</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>false</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="16" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Bold" />
+    <FontColor>#E8F3F5</FontColor>
+    <FontOutlineColor>#3882A5</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>Transparent</WarningFontColor>
+    <WarningFontOutlineColor>Transparent</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>10</BarHeight>
+    <BarColor>#FF1414</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1041</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>false</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound>テクニカルフィニッシュ.wav</MatchSound>
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>240</Left>
+    <Top>69</Top>
+    <ID>40</ID>
+    <Guid>7a2b1ba2-2d72-41a0-9f8b-a882f2e1bce9</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>テクニカルフィニッシュ_icon</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;DNC&gt;の「テクニカルフィニッシュ」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>20</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>0</BarHeight>
+    <BarColor>#DAA520</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1042</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>16004_テクニカルフィニッシュ.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>510</Left>
+    <Top>10</Top>
+    <ID>41</ID>
+    <Guid>3cde8116-8c20-4e90-bb62-0cc69b425ad5</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>エギの加護</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>・エギの「エギの加護」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>15</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>false</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="16" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Bold" />
+    <FontColor>#E8F3F5</FontColor>
+    <FontOutlineColor>#3882A5</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>Transparent</WarningFontColor>
+    <WarningFontOutlineColor>Transparent</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>10</BarHeight>
+    <BarColor>#FF1414</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1051</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>false</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound>エギの加護.wav</MatchSound>
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>470</Left>
+    <Top>14</Top>
+    <ID>42</ID>
+    <Guid>be8f2b82-8dd9-49d8-9dd7-3474cf4fc600</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>エギの加護_icon</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>・エギの「エギの加護」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>15</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>0</BarHeight>
+    <BarColor>#DAA520</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1052</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>7450_エギの加護.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>510</Left>
+    <Top>41</Top>
+    <ID>43</ID>
+    <Guid>4032bfff-394c-4e1a-b7bf-e6903f1a8096</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>エギの加護_recast</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>・エギの「エギの加護」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>180</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>5</BarHeight>
+    <BarColor>#14FF14</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1053</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>false</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>740</Left>
+    <Top>65</Top>
+    <ID>44</ID>
+    <Guid>e3b9e790-d570-48a4-9e83-5dfde51fc33c</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>ディヴィネーション</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;AST&gt;の「ディヴィネーション」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>15</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>false</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="16" FontFamily="Franklin Gothic" Stretch="Normal" Style="Normal" Weight="Bold" />
+    <FontColor>#E8F3F5</FontColor>
+    <FontOutlineColor>#3882A5</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>Transparent</WarningFontColor>
+    <WarningFontOutlineColor>Transparent</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>10</BarHeight>
+    <BarColor>#FF1414</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1081</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>false</HideSpellName>
+    <HideCounter>false</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound>ディヴィネーション.wav</MatchSound>
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>700</Left>
+    <Top>69</Top>
+    <ID>45</ID>
+    <Guid>617b647f-c91c-4b97-bd23-27e9cb1892aa</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>ディヴィネーション_icon</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;AST&gt;の「ディヴィネーション」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>15</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>0</BarHeight>
+    <BarColor>#DAA520</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1082</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>true</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>true</ReduceIconBrightness>
+    <SpellIcon>16552_ディヴィネーション.png</SpellIcon>
+    <SpellIconSize>36</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+  <SpellTimer>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <Left>740</Left>
+    <Top>96</Top>
+    <ID>46</ID>
+    <Guid>b651dd47-2781-4596-949e-39f5b6900315</Guid>
+    <PanelID>4a5f0d8c-a18e-4789-9e21-0d37c5f6f824</PanelID>
+    <Panel>5.Xシナジー(未確認)</Panel>
+    <SpellTitle>ディヴィネーション_recast</SpellTitle>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;AST&gt;の「ディヴィネーション」$</Keyword>
+    <KeywordForExtend1 />
+    <KeywordForExtend2 />
+    <RecastTime>180</RecastTime>
+    <RecastTimeExtending1>0</RecastTimeExtending1>
+    <RecastTimeExtending2>0</RecastTimeExtending2>
+    <RecastTimeExtending3>0</RecastTimeExtending3>
+    <OverlapRecastTime>true</OverlapRecastTime>
+    <IsNotResetBarOnExtended>false</IsNotResetBarOnExtended>
+    <ProgressBarVisible>true</ProgressBarVisible>
+    <Font Size="5" FontFamily="Meiryo UI" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>AliceBlue</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <WarningTime>0</WarningTime>
+    <ChangeFontColorsWhenWarning>false</ChangeFontColorsWhenWarning>
+    <WarningFontColor>OrangeRed</WarningFontColor>
+    <WarningFontOutlineColor>DarkRed</WarningFontOutlineColor>
+    <BarWidth>175</BarWidth>
+    <BarHeight>5</BarHeight>
+    <BarColor>#14FF14</BarColor>
+    <BarOutlineColor>#16789D</BarOutlineColor>
+    <BarBlurRadius>11</BarBlurRadius>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <DisplayNo>1083</DisplayNo>
+    <DontHide>true</DontHide>
+    <ExtendBeyondOriginalRecastTime>false</ExtendBeyondOriginalRecastTime>
+    <HideSpellName>true</HideSpellName>
+    <HideCounter>true</HideCounter>
+    <IsCounterToCenter>false</IsCounterToCenter>
+    <IsReverse>false</IsReverse>
+    <MatchDateTime>0001-01-01T00:00:00</MatchDateTime>
+    <UseHotbarRecastTime>false</UseHotbarRecastTime>
+    <HotbarName />
+    <ReduceIconBrightness>false</ReduceIconBrightness>
+    <SpellIcon />
+    <SpellIconSize>24</SpellIconSize>
+    <IsNotResetAtWipeout>false</IsNotResetAtWipeout>
+    <TimeupHide>false</TimeupHide>
+    <ToInstance>false</ToInstance>
+    <UpperLimitOfExtension>0</UpperLimitOfExtension>
+    <BlinkTime>0</BlinkTime>
+    <BlinkIcon>false</BlinkIcon>
+    <BlinkBar>false</BlinkBar>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <OverTime>0</OverTime>
+    <OverTextToSpeak />
+    <OverAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </OverAdvancedConfig>
+    <BeforeTime>0</BeforeTime>
+    <BeforeTextToSpeak />
+    <BeforeAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </BeforeAdvancedConfig>
+    <TimeupTextToSpeak />
+    <TimeupAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </TimeupAdvancedConfig>
+    <MatchSound />
+    <OverSound />
+    <BeforeSound />
+    <TimeupSound />
+  </SpellTimer>
+</ArrayOfSpellTimer>

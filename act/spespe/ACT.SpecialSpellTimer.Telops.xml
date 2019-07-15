@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>1</ID>
+    <Guid>d895dbac-4fe3-4538-80d6-72d47bf76d4c</Guid>
+    <Left>1280</Left>
+    <Top>720</Top>
+    <Title>インビンシブル</Title>
+    <Message>{COUNT0} インビンシビル</Message>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;mex&gt;の「インビンシブル」</Keyword>
+    <Delay>0</Delay>
+    <DisplayTime>10</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#FF4500</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#000000</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak>インビンシブル。</MatchTextToSpeak>
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound />
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>2</ID>
+    <Guid>e973cebb-5c21-4782-99d8-8cae6eddceae</Guid>
+    <Left>1280</Left>
+    <Top>720</Top>
+    <Title>インビンシブル（サウンドのみ）</Title>
+    <Message />
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>&lt;mex&gt;の「インビンシブル」</Keyword>
+    <Delay>5</Delay>
+    <DisplayTime>0</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#FF4500</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#000000</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak>インビンシブルの終了まで後5秒。</DelayTextToSpeak>
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound />
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <ID>3</ID>
+    <Guid>098c8781-5075-44dd-b795-f4d3a0af7439</Guid>
+    <Left>2359</Left>
+    <Top>480</Top>
+    <Title>星の支配者</Title>
+    <Message>星の支配者 : {COUNT}</Message>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>Added new combatant アーサリースター.  Job: 0 Level:</Keyword>
+    <KeywordToHide>Removing combatant アーサリースター.</KeywordToHide>
+    <Delay>0</Delay>
+    <DisplayTime>10</DisplayTime>
+    <Font FontFamily="Nyashi" Size="20" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#F0F8FF</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>true</ProgressBarEnabled>
+    <JobFilter>33</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound />
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>true</Enabled>
+    <ID>4</ID>
+    <Guid>41fe70bf-5bbb-41d6-96b5-ecd2ebe340cc</Guid>
+    <Left>2359</Left>
+    <Top>480</Top>
+    <Title>巨星の支配者</Title>
+    <Message>巨星の支配者 : {COUNT}</Message>
+    <RegexEnabled>true</RegexEnabled>
+    <Keyword>Added new combatant アーサリースター.  Job: 0 Level:</Keyword>
+    <KeywordToHide>Removing combatant アーサリースター.</KeywordToHide>
+    <Delay>10</Delay>
+    <DisplayTime>10</DisplayTime>
+    <Font FontFamily="Nyashi" Size="20" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#F0F8FF</FontColor>
+    <FontOutlineColor>#16789D</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>true</ProgressBarEnabled>
+    <JobFilter>33</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound />
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>5</ID>
+    <Guid>a0cfa745-f5b7-4326-ac7a-b06f14ef9194</Guid>
+    <Left>1280</Left>
+    <Top>720</Top>
+    <Title>大地の重み3回フラグ</Title>
+    <Message />
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>Removing combatant ボムボルダー</Keyword>
+    <Delay>0</Delay>
+    <DisplayTime>5</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#DC143C</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound />
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>6</ID>
+    <Guid>bc549bb9-bf7f-4296-b472-786869c17cf9</Guid>
+    <Left>1280</Left>
+    <Top>720</Top>
+    <Title>大地の重み3回</Title>
+    <Message />
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>タイタンの「ロックバスター」</Keyword>
+    <Delay>4.5</Delay>
+    <DisplayTime>2</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#DC143C</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter>24</JobFilter>
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart>
+      <guid>a0cfa745-f5b7-4326-ac7a-b06f14ef9194</guid>
+    </TimersMustRunningForStart>
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound>3times.wav</DelaySound>
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>7</ID>
+    <Guid>d0e59e13-5984-4228-b436-8739e0bd3f80</Guid>
+    <Left>1280</Left>
+    <Top>720</Top>
+    <Title>きゅあさん！？フラグ</Title>
+    <Message />
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>因果応報……我が炎は、さらに燃え盛らん</Keyword>
+    <Delay>0</Delay>
+    <DisplayTime>14</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#DC143C</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound />
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>8</ID>
+    <Guid>60f15cef-e73c-4f6f-bcfb-8662dee64af1</Guid>
+    <Left>1280</Left>
+    <Top>720</Top>
+    <Title>きゅあさん！？</Title>
+    <Message />
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>イフリートは「地獄の火炎」の構え</Keyword>
+    <Delay>56</Delay>
+    <DisplayTime>4</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#DC143C</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart>
+      <guid>d0e59e13-5984-4228-b436-8739e0bd3f80</guid>
+    </TimersMustRunningForStart>
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound>kyua1.wav</DelaySound>
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>9</ID>
+    <Guid>355421b3-9cd4-49f1-b008-53abcaa3e6c6</Guid>
+    <Left>1280</Left>
+    <Top>710</Top>
+    <Title>クリムゾンサイクロン-flag1</Title>
+    <Message />
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>イフリートの「灼熱の咆吼」</Keyword>
+    <Delay>0</Delay>
+    <DisplayTime>12</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#DC143C</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart>
+      <guid>eded81b5-6cb6-45a9-a013-b6f878f04793</guid>
+      <guid>355421b3-9cd4-49f1-b008-53abcaa3e6c6</guid>
+    </TimersMustStoppingForStart>
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound />
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>10</ID>
+    <Guid>eded81b5-6cb6-45a9-a013-b6f878f04793</Guid>
+    <Left>1280</Left>
+    <Top>715</Top>
+    <Title>クリムゾンサイクロン_4連</Title>
+    <Message />
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>イフリートの「フレイムクラッシュ」</Keyword>
+    <Delay>10.5</Delay>
+    <DisplayTime>5</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#DC143C</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart>
+      <guid>355421b3-9cd4-49f1-b008-53abcaa3e6c6</guid>
+    </TimersMustRunningForStart>
+    <TimersMustStoppingForStart>
+      <guid>eded81b5-6cb6-45a9-a013-b6f878f04793</guid>
+    </TimersMustStoppingForStart>
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound>pun3.wav</DelaySound>
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>11</ID>
+    <Guid>775da09d-1a08-4de9-aaae-93948b49bd49</Guid>
+    <Left>1280</Left>
+    <Top>720</Top>
+    <Title>見せ場のぷぅん</Title>
+    <Message />
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>渦なす生命の色、七つの扉開き、力の塔の天に至らん！ ……アルテマッ</Keyword>
+    <Delay>28.7</Delay>
+    <DisplayTime>5</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#DC143C</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound>pun2.wav</DelaySound>
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>12</ID>
+    <Guid>6d6b9b27-0e0b-4c67-8b82-9534fc938472</Guid>
+    <Left>1280</Left>
+    <Top>725</Top>
+    <Title>クリムゾンサイクロン_いつもの</Title>
+    <Message>クリムゾンサイクロン_いつもの</Message>
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>イフリート starts using クリムゾンサイクロン</Keyword>
+    <Delay>2.8</Delay>
+    <DisplayTime>0</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#DC143C</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart>
+      <guid>eded81b5-6cb6-45a9-a013-b6f878f04793</guid>
+      <guid>945fc09d-939f-462b-a571-f846244edc30</guid>
+    </TimersMustStoppingForStart>
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound>pun2.wav</DelaySound>
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>13</ID>
+    <Guid>945fc09d-939f-462b-a571-f846244edc30</Guid>
+    <Left>1280</Left>
+    <Top>715</Top>
+    <Title>クリムゾンサイクロン_抑止</Title>
+    <Message />
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>イフリートの「フレイムクラッシュ」</Keyword>
+    <Delay>0</Delay>
+    <DisplayTime>14</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#DC143C</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter>777,733</ZoneFilter>
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound />
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>14</ID>
+    <Guid>9ca2ba83-d2a4-4e36-a7e0-0f440ff57d35</Guid>
+    <Left>1280</Left>
+    <Top>720</Top>
+    <Title>爆撃の究極幻想</Title>
+    <Message />
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>アルテマウェポンの「爆撃の究極幻想」</Keyword>
+    <Delay>0</Delay>
+    <DisplayTime>10</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#DC143C</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart />
+    <TimersMustStoppingForStart />
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound />
+    <MatchSound />
+  </OnePointTelop>
+  <OnePointTelop>
+    <SortPriority>0</SortPriority>
+    <IsChecked>false</IsChecked>
+    <IsExpanded>false</IsExpanded>
+    <Enabled>false</Enabled>
+    <ID>15</ID>
+    <Guid>60aec90c-59a8-43bb-ab4e-a142447bca12</Guid>
+    <Left>1280</Left>
+    <Top>720</Top>
+    <Title>大地の重み</Title>
+    <Message />
+    <RegexEnabled>false</RegexEnabled>
+    <Keyword>タイタン starts using 大地の重み on タイタン</Keyword>
+    <Delay>0</Delay>
+    <DisplayTime>3</DisplayTime>
+    <Font FontFamily="Arial" Size="11" Stretch="Normal" Style="Normal" Weight="Normal" />
+    <FontColor>#FFFFFF</FontColor>
+    <FontOutlineColor>#DC143C</FontOutlineColor>
+    <BarBlurRadius>14</BarBlurRadius>
+    <BackgroundAlpha>0</BackgroundAlpha>
+    <BackgroundColor>#FFFFFF</BackgroundColor>
+    <AddMessageEnabled>false</AddMessageEnabled>
+    <ProgressBarEnabled>false</ProgressBarEnabled>
+    <JobFilter />
+    <PartyJobFilter />
+    <PartyCompositionFilter />
+    <ZoneFilter />
+    <TimersMustRunningForStart>
+      <guid>9ca2ba83-d2a4-4e36-a7e0-0f440ff57d35</guid>
+    </TimersMustRunningForStart>
+    <TimersMustStoppingForStart>
+      <guid>60aec90c-59a8-43bb-ab4e-a142447bca12</guid>
+    </TimersMustStoppingForStart>
+    <IsSequentialTTS>false</IsSequentialTTS>
+    <MatchTextToSpeak />
+    <DelayTextToSpeak />
+    <MatchAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </MatchAdvancedConfig>
+    <DelayAdvancedConfig>
+      <IsEnabled>false</IsEnabled>
+      <ToMainDevice>true</ToMainDevice>
+      <ToSubDevice>false</ToSubDevice>
+      <ToDicordTextChat>false</ToDicordTextChat>
+    </DelayAdvancedConfig>
+    <DelaySound />
+    <MatchSound>3times.wav</MatchSound>
+  </OnePointTelop>
+</ArrayOfOnePointTelop>
